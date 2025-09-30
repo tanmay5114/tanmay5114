@@ -32,7 +32,7 @@
 
 ## 🌍 Open Source & Community  
 - **Saru (Cursor for Writing)** – Migrated AI SDK from v4 → v5 in 3 days  
-  🔗 [PRs & Issue](https://github.com/will-lp1/saru/issues/61) – *3/4 PRs merged, community recognition for speed & quality*  
+  🔗 [PRs & Issue](https://github.com/will-lp1/saru/issues/61) – *2 PRs merged, community recognition for speed & quality*  
 - **Solana-Agent-Kit (by SendAI)** – Fixed Node OOM error in adapter-mcp package  
   🔗 [Pull Request](https://github.com/sendaifun/solana-agent-kit/pull/499)  
 
