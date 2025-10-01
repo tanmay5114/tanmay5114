@@ -6,18 +6,18 @@
 ## 💼 Experience
 
 * **Backend-Developer @ Fluper** – Mobile app development agency delivering solutions across fintech, healthcare, and edtech.
-👉 Delivered 3+ mobile & SaaS apps for fintech/edtech clients. Optimized CI/CD with Docker + AWS, reducing deployment time by **40%**.
+- 👉 Delivered 3+ mobile & SaaS apps for fintech/edtech clients. Optimized CI/CD with Docker + AWS, reducing deployment time by **40%**.
 * **Software Engineer @ Engaze** – B2B SAAS Application for managing university compliances.
-👉 Built a Custom Dashboard for 5,000+ students with Next.js + Redux. Reduced API response times by 35% via caching.
+- 👉 Built a Custom Dashboard for 5,000+ students with Next.js + Redux. Reduced API response times by 35% via caching.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js, React, React Native
-**Backend:** FastAPI, Express, Node.js
-**Deployment:** AWS, Docker, CI/CD
-**Web3:** Solana, Anchor, Wallet integrations (Phantom, Backpack, Solflare)
+- **Frontend:** Next.js, React, React Native
+- **Backend:** FastAPI, Express, Node.js
+- **Deployment:** AWS, Docker, CI/CD
+- **Web3:** Solana, Anchor, Wallet integrations (Phantom, Backpack, Solflare)
 
 ---
 
@@ -40,17 +40,17 @@
 ## 🏆 Hackathon Submission
 
 * **Saros AI Telegram Bot** – [Telegram Link](https://t.me/SarosSDKBot)
-  ▶️ [Demo Video](https://youtube.com/shorts/mbYmYLSCCmo?feature=share)
-  👉 Simplified **Saros DeFi on Solana** → portfolio insights, swaps, market data directly in Telegram.
-  🏅 Hackathon finalist & community recognition.
+  - ▶️ [Demo Video](https://youtube.com/shorts/mbYmYLSCCmo?feature=share)
+  - 👉 Simplified **Saros DeFi on Solana** → portfolio insights, swaps, market data directly in Telegram.
+  - 🏅 Hackathon finalist & community recognition.
 
 ---
 
 ## 💼 Freelance Experience
 
 * **Impause (Personal Finance App)** – Delivered a **1:1 Figma → production React Native app** in 4 weeks.
-  ▶️ [Demo Video](https://www.loom.com/share/a8ccc30e48d2478ab523bc56b50d52eb?sid=90f203b4-b232-43ff-bbb4-7e20bb295792)
-  ✅ Client praised **pixel-perfect execution** & fast delivery.
+  - ▶️ [Demo Video](https://www.loom.com/share/a8ccc30e48d2478ab523bc56b50d52eb?sid=90f203b4-b232-43ff-bbb4-7e20bb295792)
+  - ✅ Client praised **pixel-perfect execution** & fast delivery.
 
 ---
 
