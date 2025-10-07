@@ -5,10 +5,15 @@
 
 ## 💼 Experience
 
-* **Backend-Developer @ Fluper** – Mobile app development agency delivering solutions across fintech, healthcare, and edtech.
-- 👉 Delivered 3+ mobile & SaaS apps for fintech/edtech clients. Optimized CI/CD with Docker + AWS, reducing deployment time by **40%**.
-* **Software Engineer @ Engaze** – B2B SAAS Application for managing university compliances.
-- 👉 Built a Custom Dashboard for 5,000+ students with Next.js + Redux. Reduced API response times by 35% via caching.
+**Backend Developer @ Fluper**
+- Mobile app development agency delivering solutions across fintech, healthcare, and edtech
+- Delivered 3+ mobile & SaaS apps for fintech/edtech clients
+- Optimized CI/CD with Docker + AWS, reducing deployment time by **40%**
+
+**Software Engineer @ Engaze**
+- B2B SAAS Application for managing university compliances
+- Built a Custom Dashboard for 5,000+ students with Next.js + Redux
+- Reduced API response times by 35% via caching
 
 ---
 
@@ -29,11 +34,20 @@
 
 ---
 
-## 🌍 Open Source & Community  
-- **Saru (Cursor for Writing)** – [Website](https://trysaru.com/) - Migrated AI SDK from v4 → v5 in 3 days  
-  🔗 [PRs & Issue](https://github.com/will-lp1/saru/issues/61) – *2 PRs merged, community recognition for speed & quality*  
-- **Solana-Agent-Kit (by SendAI)** – Fixed Node OOM error in adapter-mcp package  
-  🔗 [Pull Request](https://github.com/sendaifun/solana-agent-kit/pull/499)  
+## 🌍 Open Source & Community
+
+**Saru (Cursor for Writing)** - [Website](https://trysaru.com/)
+- Migrated AI SDK from v4 → v5 in 3 days
+- [View PRs & Issue](https://github.com/will-lp1/saru/issues/61)
+- 2 PRs merged, community recognition for speed & quality
+
+**Solana Agent Kit (by SendAI)**
+- Fixed Node OOM error in adapter-mcp package
+- [View Pull Request](https://github.com/sendaifun/solana-agent-kit/pull/499)
+
+**Solana JavaScript SDK (Solana Kit)**
+- Skip compressing program addresses during message compression
+- [View Pull Request](https://github.com/anza-xyz/kit/pull/951)
 
 ---
 
